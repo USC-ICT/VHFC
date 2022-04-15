@@ -15,7 +15,7 @@ The use of resources for illustrative purposes in publications is allowed. Publi
 ## 4. Citation
 All publications reporting research results that have used these resources must acknowledge the source with the citation below.
 
-*Sharon Mozgai, Jade Winn, Cari Kaurloto, Andrew Leeds, Arno Hartholt, "Toward a Semi-Automated Scoping Review of Virtual Human Smiles," in Proceedings of Language Resources and Evaluation Conference (LREC), 2022.*
+*Sharon Mozgai, Jade Winn, Cari Kaurloto, Andrew Leeds, Dirk Heylen, Arno Hartholt, "Toward a Semi-Automated Scoping Review of Virtual Human Smiles," in Proceedings of Language Resources and Evaluation Conference (LREC), 2022.*
 
 ## 5. EULA Changes
 The University of Southern California Institute for Creative Technologies is allowed to change these terms of use at any time. In such case, this README will be updated.
